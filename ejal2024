@@ -41,7 +41,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live15.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f726fd5cbbf5944437a4dbfab431b10:376b009796e4ad50ea8f68d796676692
 #EXTINF:-1 tvg-id="104" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png",ASTRO RIA HD
-https://linears-playback.astro.com.my/vsg/41RWXbI5_ObvgpYllyu1QkHfHx4LwHNVS6DRmeayyGM40=ugDN/dash-wv/jitp-linearwm/1004/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41nXdDj9tmXOFE0tRAwj3i77lAB52n-EtNAzW49czmfvo=pXUz/dash-wv/jitp-linearwm/1004/default_primary.mpd
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/79321
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -55,7 +55,7 @@ https://linear07-playback.sooka.my/CH4/masterCH4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa2c653f0c05567ae283c4a3271a9810:0a80e20c568e88e53c7087c1c6493318
 #EXTINF:-1 tvg-id="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Astro_Warna_NEW.png/220px-Astro_Warna_NEW.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO WARNA HD
-https://linears-playback.astro.com.my/vsg/412YC97OfL0tRH7547SNxmrbdA3mh9EUfag8dvnNEEn1E=xIea/dash-wv/jitp-dashisowm/2402/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41iFhU-KKqyLW0EM61UfnvAQaj7GhYHZXJHQzvVLrwVYE=qy8T/dash-wv/jitp-dashisowm/2402/default_primary.mpd
 #http://mytv-extra.com:80/t12mgxyb335/9832948789/191874
 #https://smt.sky4k.eu.org/AEC_V6/index.php?play=stream1&id=AstroWarnaHD
 
@@ -67,7 +67,7 @@ https://linear05-playback.sooka.my/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166
 #EXTINF:-1 tvg-id="108" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)",ASTRO CITRA HD 
-https://linears-playback.astro.com.my/vsg/41O_F8KUa3u_jFFQIAtETDpNdjO-dpM1mqhQPd_NDZMUE=vpsf/dash-wv/jitp-dashisowm/2700/default_ott.mpd
+https://linears-playback.astro.com.my/vsg/41CJTs6aYGh76t6znU5NkYNpzHBid78dmoznKwkfOH__w=WMD2/dash-wv/jitp-dashisowm/2700/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="🇲🇾 MALAYSIA(ASTRO GO)", ASTRO CITRA Sooka
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1153,7 +1153,7 @@ https://etslive-app.vidio.com/live/8237/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"m/YWIPzWgY0F6IWNqrUq1Q", "kid":"s4OL9oWqjbozCGqiNp4P5w" } ], "type":"temporary" }
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Sensasi2022.png/revision/latest?cb=20220902052331" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/unifi%20tv%20logo%20petak.png" group-title="UNIFI TV",HyppSensasi HD 
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+https://rs.fullstory.com/rec/bundle/v2?OrgId=o-1FZ3B4-na1&UserId=09cb2972-bee4-4245-b65f-eb8fd3a3affd&SessionId=724d0e69-b7d4-4e18-9d0a-7413507ea314&PageId=e02dfc78-93fa-4d82-9c66-5864c31524c6&Seq=49&PageStart=1705316262362&PrevBundleTime=1705316492726&LastActivity=1061&IsNewSession=true
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1900d0fd8dfd2357ca2685c66628bf07:9c105cc68caa9cf65315e06ef50860ab 
